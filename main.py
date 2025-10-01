@@ -15,7 +15,7 @@ url_cam='http://192.168.0.10/'  #substitua pelo Endereço IP encontrado no monit
 # Caminho para o arquivo de credenciais
 credentials_filename = 'credentials.json'  #credenciais do Google Cloud API
 # Nome da Planilha Google
-spreadsheet_name = "Projeto Final Embarcados"
+spreadsheet_name = "Nome-da-sua-planilha"
 
 # Escopos de permissão necessários
 scopes = [
