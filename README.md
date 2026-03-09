@@ -3,12 +3,15 @@
 Leitura e decodificação de um QR Code capturado por uma ESP32-CAM.
 O payload é escrito da seguinte forma:
 
-'''
+
 aluno: string
+
 matrícula: string
+
 codigoMatrícula: int
+
 disciplina: string
-'''
+
 
 Confira o exemplo abaixo.
 
