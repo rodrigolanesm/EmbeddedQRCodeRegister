@@ -6,7 +6,7 @@ O payload é escrito da seguinte forma:
 ```
 aluno: string
 matrícula: string
-codigoMatrícula: int
+codigoDisciplina: int
 disciplina: string
 ```
 
